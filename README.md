@@ -40,4 +40,8 @@ Module 0:
 Module 1 - Tracing Basics:
     -> Learned how to use @traceable decorators for automatic tracing and how to add metadata for better debugging and analysis. The @traceable decorator creates run trees that capture function inputs, outputs, and errors, making it easier to monitor and debug RAG applications.
     -> Modified examples with custom questions, enhanced metadata, increased temperature slightly, and renamed functions to create a personalized RAG system.
+
+Module 1 - Types of Runs:
+    -> Learned about different run types in LangSmith (LLM, Retriever, Tool, Chain, Prompt, Parser) and how to properly structure inputs/outputs for each type to get optimal trace visualization. Each run type has specific formatting requirements for metadata and data structures to enable proper rendering in LangSmith.
+    -> Created educational-themed examples with programming tutor scenarios, custom tool functions for coding difficulty assessment, and enhanced metadata for better categorization and filtering.
 ```
