@@ -71,4 +71,10 @@ Module 2 - Lesson 4:
 
 Module 2 - Pairwise Experiments:
     -> Learned how to compare two different experiments head-to-head using pairwise evaluation with LLM-as-judge methodology, enabling direct comparison of different prompts or models without requiring ground truth reference outputs. This approach uses structured evaluation criteria to determine which experiment performs better on a given task.
+    https://smith.langchain.com/o/7c0013ad-db6b-4270-a51d-fd50bff1aee4/datasets/a56c3d7b-42a6-4f1d-b621-1edfdc1e7cf3/compare?selectedSessions=f001cf8e-9758-48d1-8fc4-edca2e642ed3%2C5a032600-ed36-4785-b2da-340ffb8eba5a&comparativeExperiment=63bb8538-ab47-4c77-81b0-2185b2cb9ab3&baseline=undefined&compare-experiment-tab=0
+
+Module 2 - Summary Evaluators:
+    -> Learned how to create summary evaluators that compute aggregate metrics across entire datasets rather than individual examples, such as F1-score, precision, and recall for classification tasks. Summary evaluators analyze collections of outputs to provide overall performance statistics that can only be calculated at the dataset level.
+    Made a toxicity analysis dataset.
+    https://smith.langchain.com/o/7c0013ad-db6b-4270-a51d-fd50bff1aee4/datasets/7e92fece-dbe9-4db3-aaec-430dda4ce95b?tab=1&paginationState=%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A10%7D
 ```
