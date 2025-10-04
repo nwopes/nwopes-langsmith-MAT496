@@ -44,4 +44,8 @@ Module 1 - Tracing Basics:
 Module 1 - Types of Runs:
     -> Learned about different run types in LangSmith (LLM, Retriever, Tool, Chain, Prompt, Parser) and how to properly structure inputs/outputs for each type to get optimal trace visualization. Each run type has specific formatting requirements for metadata and data structures to enable proper rendering in LangSmith.
     -> Created educational-themed examples with programming tutor scenarios, custom tool functions for coding difficulty assessment, and enhanced metadata for better categorization and filtering.
+
+Module 1 - Alternative Tracing Methods:
+    -> Learned about different tracing approaches in LangSmith including LangGraph automatic tracing, @traceable decorators with context managers, wrap_openai for automatic OpenAI call tracing, and RunTree API for manual trace control. Each method offers different levels of control and automation for different use cases.
+    -> Transformed all examples into naruto themed scenarios with ninja knowledge systems while maintaining the technical learning objectives of each tracing method.
 ```
