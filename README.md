@@ -52,4 +52,8 @@ Module 1 - Alternative Tracing Methods:
 Module 1 - Conversational Threads:
     -> Learned how to use LangSmith's Threads feature to group multiple traces into coherent conversations using session_id, thread_id, or conversation_id metadata keys with UUID values. This enables tracking multi-turn conversations and maintaining context across related interactions in chatbot-like applications.
     -> Converted the programming tutor examples into hilarious college student meme-style conversations with relatable existential crises, internet slang, and chaotic good energy while preserving the threading functionality.
+
+Module 2 - Dataset Upload:
+    -> Learned how to programmatically create and upload datasets to LangSmith using the LangSmith SDK Client, including preparing input-output pairs and using the create_examples() method for bulk dataset creation. This enables automated dataset management and integration with existing data pipelines for testing and evaluation workflows.
+    -> Replaced the LangSmith technical Q&A examples with entertaining random fun facts about animals, space, human body, and nature, creating a more engaging trivia-style dataset while maintaining the same upload functionality.
 ```
