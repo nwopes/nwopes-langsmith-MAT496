@@ -36,4 +36,8 @@ LANGSMITH_ENDPOINT = "<your-self-hosted-url>/api/v1"
 
 Module 0:
     -> changed the promt a bit and learnt that langsmith first retrieves the information and then parces it to then send an output
+
+Module 1 - Tracing Basics:
+    -> Learned how to use @traceable decorators for automatic tracing and how to add metadata for better debugging and analysis. The @traceable decorator creates run trees that capture function inputs, outputs, and errors, making it easier to monitor and debug RAG applications.
+    -> Modified examples with custom questions, enhanced metadata, increased temperature slightly, and renamed functions to create a personalized RAG system.
 ```
