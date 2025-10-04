@@ -65,4 +65,7 @@ Module 2 - Evaluators (Auto Evaluators):
 Module 2 - Experiments:
     -> Learned how to run systematic experiments in LangSmith using the evaluate() function with various parameters including dataset versions (as_of), dataset splits, specific example IDs, repetitions for consistency, concurrency for performance, and metadata for organization. Experiments enable A/B testing different models, comparing performance across dataset subsets, and tracking experiment results with proper categorization.
     -> Updated the TODO comment by adding specific example IDs for running experiments on individual data points, enabling targeted testing of specific examples rather than entire datasets.
+
+Module 2 - Lesson 4:
+    -> Learned how to analyze experiment results in the LangSmith website interface at smith.langchain.com, including viewing experiment comparisons, performance metrics, and detailed result breakdowns to understand model behavior and make data-driven decisions for model improvements.
 ```
