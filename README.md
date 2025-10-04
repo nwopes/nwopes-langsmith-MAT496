@@ -61,4 +61,8 @@ Module 2 - Evaluators (Auto Evaluators):
     -> Learned about LangSmith's auto evaluators including custom evaluators, LLM-as-judge evaluators, and semantic similarity evaluators. Auto evaluators enable automated assessment of LLM outputs through various scoring methods like semantic similarity (using embedding vectors), LLM-based judgment (using another LLM to score responses), and custom scoring functions with structured outputs using Pydantic models.
     -> Key concepts covered: evaluate() function for running evaluators on datasets, compare_semantic_similarity for embedding-based evaluation, LLM-as-judge with scoring criteria and reasoning, structured evaluation outputs with score/reasoning pairs, and automated evaluation workflows for continuous model assessment.
     -> Converted the LangSmith technical Q&A evaluation examples into fun animal fact scenarios (koala sleep habits, octopus hearts) while preserving the core evaluation methodologies and scoring mechanisms, making the learning process more engaging and memorable.
+
+Module 2 - Experiments:
+    -> Learned how to run systematic experiments in LangSmith using the evaluate() function with various parameters including dataset versions (as_of), dataset splits, specific example IDs, repetitions for consistency, concurrency for performance, and metadata for organization. Experiments enable A/B testing different models, comparing performance across dataset subsets, and tracking experiment results with proper categorization.
+    -> Updated the TODO comment by adding specific example IDs for running experiments on individual data points, enabling targeted testing of specific examples rather than entire datasets.
 ```
