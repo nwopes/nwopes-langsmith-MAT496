@@ -48,4 +48,8 @@ Module 1 - Types of Runs:
 Module 1 - Alternative Tracing Methods:
     -> Learned about different tracing approaches in LangSmith including LangGraph automatic tracing, @traceable decorators with context managers, wrap_openai for automatic OpenAI call tracing, and RunTree API for manual trace control. Each method offers different levels of control and automation for different use cases.
     -> Transformed all examples into naruto themed scenarios with ninja knowledge systems while maintaining the technical learning objectives of each tracing method.
+
+Module 1 - Conversational Threads:
+    -> Learned how to use LangSmith's Threads feature to group multiple traces into coherent conversations using session_id, thread_id, or conversation_id metadata keys with UUID values. This enables tracking multi-turn conversations and maintaining context across related interactions in chatbot-like applications.
+    -> Converted the programming tutor examples into hilarious college student meme-style conversations with relatable existential crises, internet slang, and chaotic good energy while preserving the threading functionality.
 ```
