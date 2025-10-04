@@ -56,4 +56,9 @@ Module 1 - Conversational Threads:
 Module 2 - Dataset Upload:
     -> Learned how to programmatically create and upload datasets to LangSmith using the LangSmith SDK Client, including preparing input-output pairs and using the create_examples() method for bulk dataset creation. This enables automated dataset management and integration with existing data pipelines for testing and evaluation workflows.
     -> Replaced the LangSmith technical Q&A examples with entertaining random fun facts about animals, space, human body, and nature, creating a more engaging trivia-style dataset while maintaining the same upload functionality.
+
+Module 2 - Evaluators (Auto Evaluators):
+    -> Learned about LangSmith's auto evaluators including custom evaluators, LLM-as-judge evaluators, and semantic similarity evaluators. Auto evaluators enable automated assessment of LLM outputs through various scoring methods like semantic similarity (using embedding vectors), LLM-based judgment (using another LLM to score responses), and custom scoring functions with structured outputs using Pydantic models.
+    -> Key concepts covered: evaluate() function for running evaluators on datasets, compare_semantic_similarity for embedding-based evaluation, LLM-as-judge with scoring criteria and reasoning, structured evaluation outputs with score/reasoning pairs, and automated evaluation workflows for continuous model assessment.
+    -> Converted the LangSmith technical Q&A evaluation examples into fun animal fact scenarios (koala sleep habits, octopus hearts) while preserving the core evaluation methodologies and scoring mechanisms, making the learning process more engaging and memorable.
 ```
