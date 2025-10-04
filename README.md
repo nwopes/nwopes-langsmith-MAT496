@@ -68,4 +68,7 @@ Module 2 - Experiments:
 
 Module 2 - Lesson 4:
     -> Learned how to analyze experiment results in the LangSmith website interface at smith.langchain.com, including viewing experiment comparisons, performance metrics, and detailed result breakdowns to understand model behavior and make data-driven decisions for model improvements.
+
+Module 2 - Pairwise Experiments:
+    -> Learned how to compare two different experiments head-to-head using pairwise evaluation with LLM-as-judge methodology, enabling direct comparison of different prompts or models without requiring ground truth reference outputs. This approach uses structured evaluation criteria to determine which experiment performs better on a given task.
 ```
