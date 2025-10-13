@@ -85,4 +85,8 @@ Module 3 - Playground Experiments:
 Module 3 - Prompt Hub:
     -> Learned how to connect applications to LangSmith's Prompt Hub for centralized prompt management, including pulling prompts with client.pull_prompt(), testing different prompt versions, and programmatically uploading custom prompts using client.push_prompt() for collaborative prompt engineering workflows.
     -> Modified all example questions and prompts from generic themes to Monkey D. Luffy and One Piece themed content, creating pirate adventure scenarios while maintaining the core prompt management functionality.
+
+Module 3 - Prompt Engineering Lifecycle:
+    -> Learned the complete prompt engineering lifecycle using LangSmith, including creating datasets for evaluation, building RAG applications with tracing, and integrating Prompt Hub for centralized prompt management. This demonstrates how to iteratively improve prompts through systematic testing and evaluation workflows.
+    -> Replaced technical LangSmith documentation questions with fascinating animal facts (cheetah speed, octopus hearts, elephant sleep patterns, penguin swimming, giraffe tongues) to create an engaging wildlife knowledge base.
 ```
