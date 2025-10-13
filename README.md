@@ -80,5 +80,9 @@ Module 2 - Summary Evaluators:
 
 Module 3 - Playground Experiments:
     -> Learned how to create datasets programmatically using the LangSmith Client and run experiments in the playground interface. This enables systematic testing of prompts and models by creating structured datasets with input-output pairs for evaluation and comparison purposes.
-    -> Replaced generic color questions with Batman and Gotham City themed examples to create a more engaging superhero knowledge dataset.?tab=1&paginationState=%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A10%7D
+    -> Replaced generic color questions with Batman and Gotham City themed examples to create a more engaging superhero knowledge dataset.
+
+Module 3 - Prompt Hub:
+    -> Learned how to connect applications to LangSmith's Prompt Hub for centralized prompt management, including pulling prompts with client.pull_prompt(), testing different prompt versions, and programmatically uploading custom prompts using client.push_prompt() for collaborative prompt engineering workflows.
+    -> Modified all example questions and prompts from generic themes to Monkey D. Luffy and One Piece themed content, creating pirate adventure scenarios while maintaining the core prompt management functionality.
 ```
