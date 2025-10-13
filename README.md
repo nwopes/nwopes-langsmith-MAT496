@@ -91,4 +91,7 @@ Module 3 - Prompt Hub:
 Module 3 - Prompt Engineering Lifecycle:
     -> Learned the complete prompt engineering lifecycle using LangSmith, including creating datasets for evaluation, building RAG applications with tracing, and integrating Prompt Hub for centralized prompt management. This demonstrates how to iteratively improve prompts through systematic testing and evaluation workflows.
     -> Replaced technical LangSmith documentation questions with fascinating animal facts (cheetah speed, octopus hearts, elephant sleep patterns, penguin swimming, giraffe tongues) to create an engaging wildlife knowledge base.
+
+Module 3 - Prompt Canvas:
+    -> Learned about LangSmith's Prompt Canvas feature at smith.langchain.com, which provides a visual interface for crafting, testing, and iterating on prompts with real-time feedback. The canvas allows for interactive prompt development with immediate model responses, parameter tuning, and collaborative prompt engineering workflows directly in the browser interface.
 ```
