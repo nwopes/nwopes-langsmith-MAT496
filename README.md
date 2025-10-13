@@ -78,6 +78,8 @@ Module 2 - Summary Evaluators:
     Made a toxicity analysis dataset.
     https://smith.langchain.com/o/7c0013ad-db6b-4270-a51d-fd50bff1aee4/datasets/7e92fece-dbe9-4db3-aaec-430dda4ce95b
 
+Module 3 link to all the changes : https://docs.google.com/document/d/1f2AM_i7sZoD_O1RNjPbKu8ETNb1Ex_U55MpsTa1UpsE/edit?tab=t.0#heading=h.5mfvtbwz1o5q
+
 Module 3 - Playground Experiments:
     -> Learned how to create datasets programmatically using the LangSmith Client and run experiments in the playground interface. This enables systematic testing of prompts and models by creating structured datasets with input-output pairs for evaluation and comparison purposes.
     -> Replaced generic color questions with Batman and Gotham City themed examples to create a more engaging superhero knowledge dataset.
