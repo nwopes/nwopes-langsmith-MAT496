@@ -76,5 +76,9 @@ Module 2 - Pairwise Experiments:
 Module 2 - Summary Evaluators:
     -> Learned how to create summary evaluators that compute aggregate metrics across entire datasets rather than individual examples, such as F1-score, precision, and recall for classification tasks. Summary evaluators analyze collections of outputs to provide overall performance statistics that can only be calculated at the dataset level.
     Made a toxicity analysis dataset.
-    https://smith.langchain.com/o/7c0013ad-db6b-4270-a51d-fd50bff1aee4/datasets/7e92fece-dbe9-4db3-aaec-430dda4ce95b?tab=1&paginationState=%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A10%7D
+    https://smith.langchain.com/o/7c0013ad-db6b-4270-a51d-fd50bff1aee4/datasets/7e92fece-dbe9-4db3-aaec-430dda4ce95b
+
+Module 3 - Playground Experiments:
+    -> Learned how to create datasets programmatically using the LangSmith Client and run experiments in the playground interface. This enables systematic testing of prompts and models by creating structured datasets with input-output pairs for evaluation and comparison purposes.
+    -> Replaced generic color questions with Batman and Gotham City themed examples to create a more engaging superhero knowledge dataset.?tab=1&paginationState=%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A10%7D
 ```
