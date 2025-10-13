@@ -81,17 +81,17 @@ Module 2 - Summary Evaluators:
 Module 3 link to all the changes : https://docs.google.com/document/d/1f2AM_i7sZoD_O1RNjPbKu8ETNb1Ex_U55MpsTa1UpsE/edit?tab=t.0#heading=h.5mfvtbwz1o5q
 
 Module 3 - Playground Experiments:
-    -> Learned how to create datasets programmatically using the LangSmith Client and run experiments in the playground interface. This enables systematic testing of prompts and models by creating structured datasets with input-output pairs for evaluation and comparison purposes.
-    -> Replaced generic color questions with Batman and Gotham City themed examples to create a more engaging superhero knowledge dataset.
+    -> Figured out how to make datasets using the LangSmith Client and run some tests in the playground. This lets you test out different prompts and models by making input-output pairs for comparison.
+    -> Switched out the usual color questions for Batman and Gotham City stuff, so it’s a way more fun superhero-themed dataset.
 
 Module 3 - Prompt Hub:
-    -> Learned how to connect applications to LangSmith's Prompt Hub for centralized prompt management, including pulling prompts with client.pull_prompt(), testing different prompt versions, and programmatically uploading custom prompts using client.push_prompt() for collaborative prompt engineering workflows.
-    -> Modified all example questions and prompts from generic themes to Monkey D. Luffy and One Piece themed content, creating pirate adventure scenarios while maintaining the core prompt management functionality.
+    -> Learned how to hook apps up to LangSmith's Prompt Hub to manage all the prompts in one place. Used stuff like `client.pull_prompt()` to grab prompts, tested different versions, and uploaded custom prompts with `client.push_prompt()`.
+    -> Changed all the example questions to be about Monkey D. Luffy and One Piece instead of the usual generic stuff. Basically made a pirate adventure vibe while still keeping the prompt management stuff intact.
 
 Module 3 - Prompt Engineering Lifecycle:
-    -> Learned the complete prompt engineering lifecycle using LangSmith, including creating datasets for evaluation, building RAG applications with tracing, and integrating Prompt Hub for centralized prompt management. This demonstrates how to iteratively improve prompts through systematic testing and evaluation workflows.
-    -> Replaced technical LangSmith documentation questions with fascinating animal facts (cheetah speed, octopus hearts, elephant sleep patterns, penguin swimming, giraffe tongues) to create an engaging wildlife knowledge base.
+    -> Got the hang of the whole prompt engineering thing using LangSmith, like making datasets, building RAG apps, and using Prompt Hub to manage everything. This is about improving prompts over time through testing and feedback.
+    -> Switched the boring LangSmith doc stuff to random animal facts (like cheetah speed, octopus hearts, elephant sleep, penguin swimming, giraffe tongues) to make a cooler wildlife knowledge base.
 
 Module 3 - Prompt Canvas:
-    -> Learned about LangSmith's Prompt Canvas feature at smith.langchain.com, which provides a visual interface for crafting, testing, and iterating on prompts with real-time feedback. The canvas allows for interactive prompt development with immediate model responses, parameter tuning, and collaborative prompt engineering workflows directly in the browser interface.
-```
+    -> Played around with LangSmith’s Prompt Canvas at smith.langchain.com. It’s a visual tool that lets you create, test, and tweak prompts, with instant feedback from the model. You can fine-tune the prompts and work with others in real-time right in the browser.
+
